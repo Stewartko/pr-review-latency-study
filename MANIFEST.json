@@ -1,0 +1,135 @@
+{
+  "format": "sha256",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 128,
+      "sha256": "92ad080dfc9043eb383f25a866a850595b375cc882ddb7a65b82483a6b6261fb"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 134,
+      "sha256": "6403a69cddb7f3d5b3423b8d46e52621cb1ed25f213464bdfcf1141459695a2a"
+    },
+    {
+      "path": "data/analysis_prs.csv",
+      "bytes": 144584015,
+      "sha256": "eb2aeda943ea7648d4d26c36f2b7dc933255924cd367414a8645eb3f70a1dc26"
+    },
+    {
+      "path": "data/raw/study.sqlite3",
+      "bytes": 511496192,
+      "sha256": "ad26f5b820657a1d57a50f9049edce2fd842d91f106dc6c67a0a3d4050695a79"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7077,
+      "sha256": "0c2162db08452efe0383e7b1513902f797ba8509448bea89c1aa10c43d709674"
+    },
+    {
+      "path": "reference/article/audit.json",
+      "bytes": 2090,
+      "sha256": "bf32938da79c7af082b30ecc2cc628f76075cf73128098760504901e52181cb9"
+    },
+    {
+      "path": "reference/article/descriptive_statistics.csv",
+      "bytes": 382,
+      "sha256": "d3da96e36f4e1934023ec8c350d3e3a083cc33686f7a148261ecefa747985bd2"
+    },
+    {
+      "path": "reference/article/rq1_per_repository.csv",
+      "bytes": 5780,
+      "sha256": "78d61dbc5ea4f659e4f10068a14260cdf5e7e1ca076b4551205577b966a4d730"
+    },
+    {
+      "path": "reference/article/rq1_sensitivity.csv",
+      "bytes": 288,
+      "sha256": "d639ee5f30dc8d5edd2742182c4f2076cc8cb7847ae04b50a3172d81efb76cca"
+    },
+    {
+      "path": "reference/article/rq2_coefficients.csv",
+      "bytes": 445,
+      "sha256": "760ad171e654b8e8b512aaf1205d808333fe38739cfcc2ab1bb660ede415c8b1"
+    },
+    {
+      "path": "reference/article/rq3_global.csv",
+      "bytes": 134,
+      "sha256": "29574f6bf8e28baed92a00b82095720a7beede2663bd96efb634818994dfeca1"
+    },
+    {
+      "path": "reference/article/rq3_per_repository.csv",
+      "bytes": 7091,
+      "sha256": "a0b139473b2b3661c5783aa0c9405078661d22eea9972388b3de12f8e0e1ac11"
+    },
+    {
+      "path": "reference/original/dataset_summary.csv",
+      "bytes": 186,
+      "sha256": "d148f4296a0f2505270c87f2b15f6c0f62530621f7c4ecd870d2dc9d8d4b04c7"
+    },
+    {
+      "path": "reference/original/descriptive_statistics.csv",
+      "bytes": 539,
+      "sha256": "760af463f6ee91825b22137cd3b350f26b7c1f497bb5d7e5084272abc7dd0372"
+    },
+    {
+      "path": "reference/original/repository_distribution.csv",
+      "bytes": 4983,
+      "sha256": "a60c253c286864e69c57892bdef47b3fd44a1c1e1840b767d94f8126422fb06a"
+    },
+    {
+      "path": "reference/original/rq3_global.csv",
+      "bytes": 173,
+      "sha256": "142ca5a782c611bf2f3080a110805f42e5ab83a5531bb6fe1a7c52b6c73f0f2c"
+    },
+    {
+      "path": "reference/rq3_paired_test.json",
+      "bytes": 1138,
+      "sha256": "dd3fceec9f5bb34307c91558890ce84e3ac7013e3e91f296d27fda6f6e312f07"
+    },
+    {
+      "path": "reproduce.py",
+      "bytes": 11006,
+      "sha256": "e3133bf26aaa459420053433aa4b2f0400aa7fcdbc15de71689e6e796aeace95"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 224,
+      "sha256": "0b4f781f9ea629e9684987e462fd1cae65473dc98bd9dbe46527e998bf86b7b0"
+    },
+    {
+      "path": "scripts/original/build_dataset.py",
+      "bytes": 10242,
+      "sha256": "330035e1a1235815c105938027fb78d950815fbfb6392624dab9d4e8fd41b14c"
+    },
+    {
+      "path": "scripts/original/final_analysis.py",
+      "bytes": 11530,
+      "sha256": "2c0b824566627c0feb1aacd8ffb47a606a335e6cbba4b2b2a32b85916056c500"
+    },
+    {
+      "path": "scripts/original/rq2_regression.py",
+      "bytes": 1889,
+      "sha256": "f9a7580863fd3b05535d8b67f5bb61ce170227b7b87cf6c5345e4d5e5329967f"
+    },
+    {
+      "path": "scripts/original/rq3_compare.py",
+      "bytes": 2199,
+      "sha256": "9cc9d413305ffc38ef2de606a5a5b53c54be89f4860aa283595870b6e073b73e"
+    },
+    {
+      "path": "scripts/original/validate_data.py",
+      "bytes": 9063,
+      "sha256": "605f5f767a37168371dbf4f1fec4e9193d81e22f65becff9a1d20a91f05a9587"
+    },
+    {
+      "path": "scripts/rq3_paired_test.py",
+      "bytes": 5221,
+      "sha256": "fa786ad54bae746181c42d2ea335a6fcbda621dcb5d02b7306c22d6ebeb3b96d"
+    },
+    {
+      "path": "scripts/verify_results.py",
+      "bytes": 8084,
+      "sha256": "f89e6ac6e5f04bd3f109fe63985df7108507d91a66069b4deed061a9df0131ed"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+metric,value
+repositories,108
+all_prs,444716
+human_prs,400021
+bot_prs,44695
+rq1_eligible,270282
+rq1_strict_eligible,220972
+merge_eligible,311648
+unique_human_contributors,67548

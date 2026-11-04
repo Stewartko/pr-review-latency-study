@@ -1,0 +1,10 @@
+# Tested: Python 3.13.14, Windows x64. Numerical reproduction only.
+numpy==2.4.1
+pandas==3.0.0
+scipy==1.18.1
+statsmodels==0.15.0
+patsy==1.0.3
+packaging==26.3
+python-dateutil==2.9.0.post0
+six==1.17.0
+tzdata==2025.3
